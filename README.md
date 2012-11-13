@@ -1,0 +1,4 @@
+trustit
+=======
+
+Java truststore generator
