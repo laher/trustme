@@ -1,4 +1,4 @@
-trustit
+trustme
 =======
 
 Java truststore generator
